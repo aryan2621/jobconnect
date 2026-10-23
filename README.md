@@ -24,13 +24,13 @@ A one and only solution for hiring people.
 Clone the project
 
 ```bash
-  git clone https://github.com/aryan2621/JobConnect/
+  git clone https://github.com/aryan2621/jobconnect
 ```
 
 Go to the project directory
 
 ```bash
-  cd JobConnect
+  cd jobconnect
 ```
 
 Install dependencies
